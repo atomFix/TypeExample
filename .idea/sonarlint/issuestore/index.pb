@@ -14,3 +14,9 @@ l
 <src/test/java/com/example/typevariable/TypeVariableTest.java,6\3\63d7984ed21b382dcd27644a1edab58c82a99066
 V
 &src/test/java/com/example/AppTest.java,9\8\980b04c20269498dc758c1f4b7a91a037d5dc4c4
+w
+G.idea/sonarlint/issuestore/3/2/3227d4a04ac81bf4a7f388817f601d22b517ff55,4\9\498620be53c70028977d3d81d444338fc5ebaff1
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
